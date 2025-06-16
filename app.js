@@ -1,1 +1,3 @@
-console.log("fuck");
+if(true){
+    console.log("main");
+}
