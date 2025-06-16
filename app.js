@@ -1,1 +1,3 @@
-console.log("fuck");
+if(false){
+    console.log("style");
+}
